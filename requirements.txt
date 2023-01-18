@@ -1,0 +1,6 @@
+# slack-bolt
+../../forks/bolt-python/dist/slack_bolt-1.14.3-py2.py3-none-any.whl
+pytest
+flake8==5.0.2
+black==22.6.0
+aiohttp==3.8.1
